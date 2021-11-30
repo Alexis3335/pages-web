@@ -1,0 +1,129 @@
+/* Alexis Perreault - PFI */
+
+
+body{
+
+  background-color: #2F3E46;
+  display:grid;
+  margin: 0;
+  color: white;
+
+}
+
+.texte{
+
+  text-align: justify;
+  margin: 2em;
+  border: 1em ridge white;
+  padding: 1em;
+ font: 120% monospace;
+
+}
+
+.tableau{
+
+  margin: 2em;
+  border: 1em ridge white;
+  padding: 1em;
+  font: 120% monospace;
+
+
+}
+
+table {
+  border-collapse: collapse;
+}
+
+tr {
+  border: 1vh double white;
+  border-left: none;
+  border-right: none;
+}
+
+tr:first-child{
+
+  border-top: none;
+}
+
+tr:last-child{
+
+  border-bottom: none;
+}
+
+
+.imageTableau{
+
+  width: 25vw;
+  height: 25vh;
+  padding-right: 1vw;
+}
+
+.menu{
+
+  display: flex;
+  background-color: black;
+  font: 1.5em Monospace;
+  overflow: hidden;
+  width: 100%;
+  justify-content: center;
+}
+
+.lien:link{
+
+  text-decoration:none;
+  font-weight:600;
+  font-style:oblique;
+  color: grey;
+}
+
+.lien:visited{
+
+  color: black;
+}
+
+.lien:hover{
+
+  color:navy;
+}
+
+.lien:active{
+
+  text-shadow: 0 0 2px navy;
+
+}
+
+
+.elementMenu:link{
+
+  color: white;
+  text-decoration: none;
+  padding: 10px 10px;
+  text-align: center;
+  float: left;
+}
+
+.elementMenu:visited{
+
+  color: white;
+}
+
+.elementMenu:hover{
+
+   background-color: #2d4e60;
+
+}
+
+#titre{
+
+text-align: center;
+font: 4em Monospace;
+
+}
+
+
+
+@media only screen and (hover: none) and (pointer: coarse){
+
+
+
+}
