@@ -122,13 +122,13 @@ font: 4em Monospace;
 
 
 
-@media only screen and (hover: none) and (pointer: coarse){
+@media only screen and (hover: none){
 
   .menu{
 
     display: flex;
     background-color: black;
-    font: 4em Monospace;
+    font: 3em Monospace;
     overflow-y: hidden;
     width: 100%;
     justify-content: space-around;
