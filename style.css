@@ -53,8 +53,8 @@ tr:last-child{
 
 .imageTableau{
 
-  width: 25vw;
-  height: 25vh;
+  width: 480px;
+  height: 270px;
   padding-right: 1vw;
 }
 
@@ -135,5 +135,17 @@ font: 4em Monospace;
     flex-wrap: wrap;
   }
 
+.imageTableau{
+
+width:30vw;
+height:20vh;
+
+}
+
+.texte{
+
+  font-size: 200%;
+  line-height: 1em;
+}
 
 }
