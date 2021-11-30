@@ -127,13 +127,12 @@ font: 4em Monospace;
   .menu{
 
     display: flex;
-    background-color: black;
+    background-color: blue;
     font: 3em Monospace;
     overflow-y: hidden;
     width: 100%;
     justify-content: space-around;
     flex-wrap: wrap;
-    background-color: blue;
   }
 
 
