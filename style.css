@@ -112,6 +112,12 @@ height: 100%;
   justify-content: center;
 }
 
+.video{
+
+ border: none;
+
+}
+
 .lien:link{
 
   text-decoration:none;
