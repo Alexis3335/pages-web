@@ -54,7 +54,7 @@ tr:last-child{
 .imageTableau{
 
   width: 25vw;
-  height: 25vh;
+  padding-top: 0.6vh;
   padding-right: 1vw;
 }
 
