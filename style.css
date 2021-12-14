@@ -188,14 +188,20 @@ font: 4em Monospace;
 
 .imageTableau{
 
-width:30vw;
-height:20vh;
+width: 30vw;
+
 
 }
 
 .texte{
 
   font-size: 200%;
+  line-height: 1em;
+}
+
+td{
+
+  font-size: 150%;
   line-height: 1em;
 }
 
